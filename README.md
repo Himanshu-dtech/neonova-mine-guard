@@ -1,73 +1,79 @@
-# Welcome to your Lovable project
+# 🌌 Neonova — Mine Safety & Productivity Platform
 
-## Project info
+![Neonova Banner](https://via.placeholder.com/1200x300?text=Neonova+Dashboard)
 
-**URL**: https://lovable.dev/projects/3b6d07d8-0389-4460-8100-22d68d1e92f7
+Live Demo: [https://neonova-cstc.vercel.app](https://neonova-cstc.vercel.app)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 📝 Problem Statement
 
-**Use Lovable**
+Mining operations are prone to **safety hazards** and **inefficiencies** due to lack of real-time monitoring and analytics.  
+Neonova addresses this by providing a **digital dashboard** for real-time mine monitoring, alerts, and data-driven decision-making — helping to **prevent accidents**, improve **productivity**, and **ensure worker safety**.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/3b6d07d8-0389-4460-8100-22d68d1e92f7) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🚀 Solution Overview
 
-**Use your preferred IDE**
+Neonova is a **modern web platform** that offers:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- Real-time monitoring of mining parameters  
+- Safety alerts and notifications  
+- Interactive dashboards and data visualization  
+- Role-based access management  
+- Mobile-responsive and user-friendly interface  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+With Neonova, mine operators can **track operations**, **analyze trends**, and **respond quickly to safety issues**.
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+## 🧠 Features
+
+| Feature | Description |
+|---------|-------------|
+| ⚡ Real-Time Dashboard | Monitor mine parameters live |
+| 🔔 Safety Alerts | Instant notifications for thresholds |
+| 📊 Data Visualization | Graphs, charts, and reports |
+| 👤 User Management | Role-based access control |
+| 📱 Responsive UI | Desktop & mobile-friendly |
+| ☁️ Cloud Deployment | Hosted on Vercel for fast access |
+
+---
+
+## 🛠 Tech Stack
+
+| Category | Technology |
+|----------|------------|
+| **Frontend** | React + TypeScript + Vite |
+| **Styling** | Tailwind CSS + shadcn-ui |
+| **Hosting** | Vercel |
+| **Other Tools** | Node.js, npm |
+
+---
+
+## 🎨 Screenshots / Demo
+
+![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)  
+*Interactive monitoring dashboard showing live metrics and alerts.*
+
+![Reports](https://via.placeholder.com/800x400?text=Reports+Screenshot)  
+*Generate reports and analyze mining operations efficiently.*
+
+> Replace placeholder images with real screenshots or GIFs before submission.
+
+---
+
+## 💻 Installation / Local Setup
+
+To run Neonova locally:
+
+```bash
+# Clone the repository
 git clone <YOUR_GIT_URL>
+cd neonova
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Install dependencies
+npm install
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/3b6d07d8-0389-4460-8100-22d68d1e92f7) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
