@@ -53,13 +53,13 @@ With Neonova, mine operators can **track operations**, **analyze trends**, and *
 
 ## 🎨 Screenshots / Demo
 
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)  
+![Dashboard]
 *Interactive monitoring dashboard showing live metrics and alerts.*
 
-![Reports](https://via.placeholder.com/800x400?text=Reports+Screenshot)  
+![Reports]  
 *Generate reports and analyze mining operations efficiently.*
 
-> Replace placeholder images with real screenshots or GIFs before submission.
+
 
 ---
 
