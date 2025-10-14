@@ -1,6 +1,6 @@
 # 🌌 Neonova — Mine Safety & Productivity Platform
 
-![Neonova Banner](https://via.placeholder.com/1200x300?text=Neonova+Dashboard)
+
 
 Live Demo: [https://neonova-cstc.vercel.app](https://neonova-cstc.vercel.app)
 
